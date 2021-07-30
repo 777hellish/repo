@@ -1,5 +1,5 @@
 
-Package: com.777hellish.appstoreplusplus
+Package: com.cokepokes.appstoreplusplus
 Name: AppStore++
 Version: 0.9.16-2
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
@@ -9,9 +9,22 @@ Conflicts: com.unlimapps.uaupdatetools
 Replaces:
 Priority: optional
 Architecture: iphoneos-arm
-Author: Hellish
+Author: CokePokes
 dev:
 Homepage:
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Maintainer: Hellish
+Maintainer: CokePokes
 Icon:
+
+Package: com.ryleyangus.libertylite.beta
+Name: Liberty Lite (Beta)
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Architecture: iphoneos-arm
+Description: A general purpose jailbreak detection bypass patch. Configure the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not currently supported. Support for both arm64e and armv7 has been enabled in this beta version.
+Maintainer: Ryley Angus
+Author: Ryley Angus
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Version: 0.2.12
+Installed-Size: 616

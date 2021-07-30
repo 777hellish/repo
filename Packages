@@ -12,3 +12,20 @@ Description: This is a test package.
 Name: Test package
 Author: AH4Ma <Danjer7757@yahoo.com>
 Depiction: A Test tweak
+
+Package: com.777hellish.cylinder
+Name: Cylinder
+Version: 1.0.4-5
+Architecture: iphoneos-arm
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Description: Make your icons dance
+Homepage: http://github.com/777hellish
+Maintainer: Hellish <qendrimgraphics@gmail.com>
+Author: Hellish (Qendrim Ejupi) <qendrimgraphics@gmail.com>
+Section: Tweaks
+Size: 330868
+MD5sum: 36ccf9eccde83b1a1dea0fba55299c68
+File: ./debs/CYLINDER.deb
+Depiction: https://777hellish.github.io/repo/depictions/?p=CYLINDER

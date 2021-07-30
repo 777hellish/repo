@@ -27,7 +27,7 @@ Author: Hellish (Qendrim Ejupi) <qendrimgraphics@gmail.com>
 Section: Tweaks
 Size: 330868
 MD5sum: 36ccf9eccde83b1a1dea0fba55299c68
-File: ./debs/CYLINDER.deb
+Filename: ./debs/CYLINDER.deb
 Depiction: https://777hellish.github.io/repo/depictions/?p=CYLINDER
 
 Package: com.777hellish.appstoreplusplus
@@ -43,6 +43,8 @@ Architecture: iphoneos-arm
 Author: Hellish
 dev:
 Homepage:
+MD5sum: e953eed8ca5b093477ba291a16c96d9e
+Filename: ./debs/AppStore++.deb
 Depiction: https://777hellish.github.io/repo/depictions/?p=AppStore++
 Maintainer: Hellish
 Icon:

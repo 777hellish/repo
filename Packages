@@ -14,6 +14,7 @@ Homepage:
 Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
 Maintainer: CokePokes
 Icon:
+Filename: ./debs/AppStore++.deb
 
 Package: com.pxcex.localiapstore13
 Name: LocalIAPStore13
@@ -25,6 +26,7 @@ Author: pxcex
 Section: Tweaks
 Version: 0.0.2
 Installed-Size: 136
+Filename: ./debs/LocalIAPStore13.deb
 
 Package: com.kanji.snapbreaknotd
 Name: Snapbreak
@@ -37,3 +39,4 @@ Section: Tweaks
 Maintainer: Kanji
 Depends: mobilesubstrate, sed, ldid
 Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
+Filename: ./debs/Snapbreak.deb

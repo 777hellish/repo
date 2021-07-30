@@ -13,7 +13,7 @@ Name: Test package
 Author: AH4Ma <Danjer7757@yahoo.com>
 Depiction: A Test tweak
 
-Package: com.777hellish.appstoreplusplus
+Package: com.cokepokes.appstoreplusplus
 Name: AppStore++
 Version: 0.9.16-2
 Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
@@ -23,12 +23,9 @@ Conflicts: com.unlimapps.uaupdatetools
 Replaces:
 Priority: optional
 Architecture: iphoneos-arm
-Author: Hellish
+Author: CokePokes
 dev:
 Homepage:
-Depiction: AppStore++
-Maintainer: Hellish
+Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
+Maintainer: CokePokes
 Icon:
-Filename: ./debs/AppStore++
-Size: 3024992
-MD5sum: e953eed8ca5b093477ba291a16c96d9e

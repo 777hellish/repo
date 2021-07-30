@@ -1,7 +1,7 @@
 <package>
-	<id>com.777hellish.appstoreplusplus</id>
-	<name>AppStore++</name>
-	<version>0.9.16-2</version>
+	<id>com.AH4Ma.ATestTweak</id>
+	<name>A Test Tweak</name>
+	<version>1.2-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>10.0</miniOS>
@@ -10,9 +10,10 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever</shortDescription>
+	<shortDescription>Download videos from Social Media!!</shortDescription>
 	<descriptionlist>
-		<description>Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever</description>
+		<description>Download videos from Social Media!!</description>
+		<description>It has more description lines.</description>
 		<description><![CDATA[
 		You can also have<br/> 
 		a multi-line item.
@@ -21,19 +22,24 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever</description>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever</description>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>It has feature 1</change>
+		<change>It has feature 2</change>
+	</changelog>
 	<links>
 		<link>
-			<name>/g/jailbreak</name>
-			<url>https://www.777hellish.github.io</url>
-			<iconclass>fa fa-github</iconclass>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/ahmad4maylod</url>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
 </package>

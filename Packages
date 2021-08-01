@@ -25,6 +25,9 @@ Description: Make your icons Dance.
 Author: Hellish (email.com)
 Name: Cylinder
 
+Package: com.hellish.asplusplus
+Version: 0.9.16-2
+Architecture: iphoneos-arm
 Maintainer: Hellish <email@com>
 Filename: /AppStore++.deb
 Size: 3024992

@@ -24,3 +24,14 @@ Section: Tweaks
 Description: Make your icons Dance.
 Author: Hellish (email.com)
 Name: Cylinder
+
+Maintainer: Hellish <email@com>
+Filename: /AppStore++.deb
+Size: 3024992
+MD5sum: E953EED8CA5B093477BA291A16C96D9E
+SHA1: BB9A0DFCF9F7C0CFE0E718C71D05C75E52C6CAE3
+SHA256: 18E928FB6DF9B351F0454A8ED738BCC22C64FE5A2FF4802BBBF12416DD7EC298
+Section: Tweaks
+Description: Upgrade/Downdrage APPS!
+Author: Hellish (email.com)
+Name: AppStore++

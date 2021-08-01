@@ -1,42 +1,27 @@
-Package: com.cokepokes.appstoreplusplus
-Name: AppStore++
-Version: 0.9.16-2
-Description: Allows you to downgrade/upgrade apps in the AppStore on iOS 11-14.whatever
-Section: Tweaks
-Depends: firmware (>= 11.0), mobilesubstrate
-Conflicts: com.unlimapps.uaupdatetools
-Replaces:
-Priority: optional
+Package: com.hellish.inapp
+Version: 1.0~beta1a
 Architecture: iphoneos-arm
-Author: CokePokes
-dev:
-Homepage:
-Depiction: https://cokepokes.github.io/depiction/appstoreplus.html
-Maintainer: CokePokes
-Icon:
-Filename: ./debs/AppStore++.deb
+Maintainer: Hellish <email@com>
+Filename: /inAppPurchases1.0~beta1a.deb
+Size: 4080
+MD5sum: 2999bd923df35d23d06c95a64b8079d0
+SHA1: 9bc93a2057b47bb8d79d07bd2ae9cf21e2ea80d9
+SHA256: dfe0adf5983204f9f92308ccc28d5a7ea8abfbed3486aee3b17aab444d5d1b9c
+Section: Tweaks
+Description: Free In App P
+Author: Hellish (email.com)
+Name: InApp ios11
 
-Package: com.pxcex.localiapstore13
-Name: LocalIAPStore13
-Depends: mobilesubstrate
+Package: com.hellish.cylinder
+Version: 1.0.4-5
 Architecture: iphoneos-arm
-Description: Free In-App Purchases include app IOS 13 bypass Lock iCloud (bypass verify Passcode, Touch ID or Face ID).  No options to configure!
-Maintainer: pxcex
-Author: pxcex
+Maintainer: Hellish <email@com>
+Filename: /CYLINDER.deb
+Size: 330868
+MD5sum: 36CCF9ECCDE83B1A1DEA0FBA55299C68
+SHA1: 23669B6F3788E766A0AE4317891B36CF77DF9131
+SHA256: F1495D6A1DE9A7947548452FC90B0CE7923A7710AD3C0C8D2F591B697C78F2B5
 Section: Tweaks
-Version: 0.0.2
-Installed-Size: 136
-Filename: ./debs/LocalIAPStore13.deb
-
-Package: com.kanji.snapbreaknotd
-Name: Snapbreak
-Version: 1.7.1
-Architecture: iphoneos-arm
-Description: Snapbreak is a Snapchat tweak that allow you to save/upload medias, disable screeshots and many more features!
-Depiction: https://whoskanji.github.io/depictions/snapbreak
-Author: Kanji
-Section: Tweaks
-Maintainer: Kanji
-Depends: mobilesubstrate, sed, ldid
-Conflicts: com.cokepokes.snapdecent, com.cokepokes.libphantom, com.cokepokes.spectre, tv.othman.scothman, tv.othman.scothman.ios11, com.s0me1ne.betaatweakdisabler, fr.s0me1ne.betasnapbreak, com.s0me1ne.atweakdisabler, fr.s0me1ne.snapbreak
-Filename: ./debs/Snapbreak.deb
+Description: Make your icons Dance.
+Author: Hellish (email.com)
+Name: Cylinder

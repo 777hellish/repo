@@ -38,3 +38,31 @@ Section: Tweaks
 Description: Upgrade/Downdrage APPS!
 Author: Hellish (qendrimgraphics@gmail.com)
 Name: AppStore++
+
+Package: com.pxcex.localiapstore13
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Hellish <qendrimgraphics@gmail.com>
+Filename: /LocalIAPStore13.deb
+Size: 2684
+MD5sum: ecfd8c78d1a9f6c841715d7257cde6b3
+SHA1: BB9A0DFCF9F7C0CFE0E718C71D05C75E52C6CAE3
+SHA256: 18E928FB6DF9B351F0454A8ED738BCC22C64FE5A2FF4802BBBF12416DD7EC298
+Section: Tweaks
+Description: Purchase free!
+Author: Hellish (qendrimgraphics@gmail.com)
+Name: LocalIAPStore13
+
+Package: com.kanji.snapbreaknotd
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: Hellish <qendrimgraphics@gmail.com>
+Filename: /Snapbreak.deb
+Size: 2684
+MD5sum: eb560331c15930735fc811ab87f77d10
+SHA1: BB9A0DFCF9F7C0CFE0E718C71D05C75E52C6CAE3
+SHA256: 18E928FB6DF9B351F0454A8ED738BCC22C64FE5A2FF4802BBBF12416DD7EC298
+Section: Tweaks
+Description: napbreak is a Snapchat tweak that allow you to save/upload medias, disable screeshots and many more features!
+Author: Hellish (qendrimgraphics@gmail.com)
+Name: Snapbreak

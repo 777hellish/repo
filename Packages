@@ -39,17 +39,3 @@ Section: Tweaks
 Description: napbreak is a Snapchat tweak that allow you to save/upload medias, disable screeshots and many more features!
 Author: Hellish (qendrimgraphics@gmail.com)
 Name: Snapbreak
-
-Package: com.spark.snowboard
-Version: 1.4.20~Beta4
-Architecture: iphoneos-arm
-Maintainer: Hellish <qendrimgraphics@gmail.com>
-Filename: /1.4.20~Beta4.deb
-Size: 1591782
-MD5sum: 1FB582D7E8E2F3093CC0E02B66BB7B07
-SHA1: 65053AF13E2CEA17AC8342EEB36B47D9FAECC2FC
-SHA256: A98BDE4179AF69362B3D969941C010A26CA05548D0B89E73E7E852A2875B64F1
-Section: Tweaks
-Description: Changes IOS THEMES!
-Author: Hellish (qendrimgraphics@gmail.com)
-Name: SnowBoard

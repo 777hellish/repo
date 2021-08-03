@@ -1,16 +1,3 @@
-Package: com.hellish.inapp
-Version: 1.0~beta1a
-Architecture: iphoneos-arm
-Maintainer: Hellish <qendrimgraphics@gmail.com>
-Filename: /inAppPurchases1.0~beta1a.deb
-Size: 4080
-MD5sum: 2999bd923df35d23d06c95a64b8079d0
-SHA1: 9bc93a2057b47bb8d79d07bd2ae9cf21e2ea80d9
-SHA256: dfe0adf5983204f9f92308ccc28d5a7ea8abfbed3486aee3b17aab444d5d1b9c
-Section: Tweaks
-Description: Free In App P
-Author: Hellish (qendrimgraphics@gmail.com)
-Name: InApp ios11
 
 Package: com.r333d.cylinder
 Version: 1.0.4-5
@@ -39,20 +26,6 @@ Description: Upgrade/Downdrage APPS!
 Author: Hellish (qendrimgraphics@gmail.com)
 Name: AppStore++
 
-Package: com.pxcex.localiapstore13
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Hellish <qendrimgraphics@gmail.com>
-Filename: /LocalIAPStore13.deb
-Size: 2684
-MD5sum: ECFD8C78D1A9F6C841715D7257CDE6B3
-SHA1: 755ABAB6E45B47294F5181B790E36B8A37A87BBF
-SHA256: 5E0CFA0AE83C1517FBCCCF0A150A6D794FFDC2696E9E6E6D4659CD96185AA9F3
-Section: Tweaks
-Description: Purchase free!
-Author: Hellish (qendrimgraphics@gmail.com)
-Name: LocalIAPStore13
-
 Package: com.kanji.snapbreaknotd
 Version: 1.7.1
 Architecture: iphoneos-arm
@@ -66,3 +39,17 @@ Section: Tweaks
 Description: napbreak is a Snapchat tweak that allow you to save/upload medias, disable screeshots and many more features!
 Author: Hellish (qendrimgraphics@gmail.com)
 Name: Snapbreak
+
+Package: com.spark.snowboard
+Version: 1.4.20~Beta4
+Architecture: iphoneos-arm
+Maintainer: Hellish <qendrimgraphics@gmail.com>
+Filename: /1.4.20~Beta4.deb
+Size: 5008
+MD5sum: 1FB582D7E8E2F3093CC0E02B66BB7B07
+SHA1: 65053AF13E2CEA17AC8342EEB36B47D9FAECC2FC
+SHA256: A98BDE4179AF69362B3D969941C010A26CA05548D0B89E73E7E852A2875B64F1
+Section: Tweaks
+Description: napbreak is a Snapchat tweak that allow you to save/upload medias, disable screeshots and many more features!
+Author: Hellish (qendrimgraphics@gmail.com)
+Name: Snowboard

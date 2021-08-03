@@ -40,7 +40,7 @@ Description: napbreak is a Snapchat tweak that allow you to save/upload medias, 
 Author: Hellish (qendrimgraphics@gmail.com)
 Name: Snapbreak
 
-Package: com.777hellish.snowboard
+Package: com.spark.snowboard
 Version: 1.4.20~Beta4
 Architecture: iphoneos-arm
 Maintainer: Hellish <qendrimgraphics@gmail.com>
@@ -52,4 +52,4 @@ SHA256: A98BDE4179AF69362B3D969941C010A26CA05548D0B89E73E7E852A2875B64F1
 Section: Tweaks
 Description: Changes IOS THEMES!
 Author: Hellish (qendrimgraphics@gmail.com)
-Name: Snowboard
+Name: SnowBoard

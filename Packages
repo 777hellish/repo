@@ -1,58 +1,14 @@
 
-Package: com.r333d.cylinder
-Version: 1.0.4-5
-Architecture: iphoneos-arm
-Maintainer: Hellish <qendrimgraphics@gmail.com>
-Filename: /CYLINDER.deb
-Size: 330868
-MD5sum: 36ccf9eccde83b1a1dea0fba55299c68
-SHA1: 23669B6F3788E766A0AE4317891B36CF77DF9131
-Section: Tweaks
-Description: Make your icons Dance.
-Author: Hellish (qendrimgraphics@gmail.com)
-Name: Cylinder
-
-Package: com.cokepokes.appstoreplusplus
-Version: 0.9.16-2
-Architecture: iphoneos-arm
-Maintainer: Hellish <qendrimgraphics@gmail.com>
-Filename: /AppStore++.deb
-Size: 3024992
-MD5sum: e953eed8ca5b093477ba291a16c96d9e
-SHA1: BB9A0DFCF9F7C0CFE0E718C71D05C75E52C6CAE3
-SHA256: 18E928FB6DF9B351F0454A8ED738BCC22C64FE5A2FF4802BBBF12416DD7EC298
-Section: Tweaks
-Description: Upgrade/Downdrage APPS!
-Author: Hellish (qendrimgraphics@gmail.com)
-Name: AppStore++
-
-Package: com.kanji.snapbreaknotd
+Package: com.777hellish.snapbreak
+Name: Snapbreak
 Version: 1.7.1
 Architecture: iphoneos-arm
+Description: Snapbreak is a Snapchat tweak that allow you to save/upload medias, disable screeshots and many more features!
 Maintainer: Hellish <qendrimgraphics@gmail.com>
-Filename: /Snapbreak.deb
-Size: 2684
+Author: Hellish (qendrimgraphics@gmail.com)
+Section: Tweaks
+Filename: ./debs/Snapbreak.deb
+Size: 5103644
 MD5sum: EB560331C15930735FC811AB87F77D10
 SHA1: 0AF09D1A3E94155478BFEF97B0AB1F1C9593BACE
 SHA256: 6C8DFA816A8A1AA94925A33EDE6A5FBD793C3E139B68F6E503F779A47E87AF3D
-Section: Tweaks
-Description: napbreak is a Snapchat tweak that allow you to save/upload medias, disable screeshots and many more features!
-Author: Hellish (qendrimgraphics@gmail.com)
-Name: Snapbreak
-
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.7.1)
-Maintainer: Karen/あけみ <karen@akemi.ai>
-Homepage: https://cydia.akemi.ai/
-Provides: appsync
-Replaces: us.hackulo.appsync50
-Package: net.angelxwind.appsyncunified
-Name: AppSync Unified
-Architecture: iphoneos-arm
-Description: Enables the ability to install unsigned/fakesigned iOS applications.
-Section: Tweaks
-Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
-Version: 100.0
-Installed-Size: 732
-Filename: /nodelete-net.angelxwind.appsyncunified.deb
-MD5sum: d9d27173cc6130c5d230851d80ffd618

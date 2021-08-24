@@ -1,12 +1,15 @@
-
-Package: com.777hellish.snapbreak
-Name: Snapbreak
-Version: 1.7.1
+Package: repo.666hellish.Cylinder
 Architecture: iphoneos-arm
-Description: Snapbreak is a Snapchat tweak that allow you to save/upload medias, disable screeshots and many more features!
-Maintainer: Hellish <qendrimgraphics@gmail.com>
-Author: Hellish (qendrimgraphics@gmail.com)
+Version: 1.0.4
 Section: Tweaks
-Filename: ./debs/Snapbreak.deb
-Size: 5103644
-MD5sum: EB560331C15930735FC811AB87F77D10
+Maintainer: Hellish
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debains/cylinder.deb
+Size: 229376
+MD5sum: 17F3A2B13CAA50FA097A422233620D02
+SHA1: F5C845409EF197CA0E325FB9033BD4914CD4F6B4
+SHA256: F658E46AF120FAFA21F8B13D33B61EE064371C9C29110717169FACD9C9FEBA0C
+Description: Make icons dance!
+Name: Cylinder Reborn
+Author: Hellish
